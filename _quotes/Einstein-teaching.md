@@ -8,6 +8,5 @@ show_meta: false
 categories:
   - quotes
 tags:
-  - models
   - Einstein
 ---
