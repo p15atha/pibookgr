@@ -1,5 +1,5 @@
 ---
-title: jobs-focusgroups
+title: Differences - Hubbard
 text: 'One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.'
 person: Elbert Hubbard
 layout: quote
